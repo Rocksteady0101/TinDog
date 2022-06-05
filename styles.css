@@ -33,12 +33,13 @@ p {
   margin: 20px;
 }
 
-#nav{
-  background-color: red;
+#nav {
+  background-color:#b10c00;
   text-align: center;
   position: relative;
 z-index: 1;
    }
+
 .sectionTwo{
   text-align: center;
   font-size: 4rem;
