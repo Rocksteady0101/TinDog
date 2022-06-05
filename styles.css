@@ -32,17 +32,19 @@ p {
   width: 10%;
   margin: 20px;
 }
-.sectionTwo{
-  text-align: center;
-  font-size: 4rem;
-  color: #ef8172;
-}
+
 #nav{
   background-color:#ff4c68;
   text-align: center;
   position: relative;
 z-index: 1;
    }
+.sectionTwo{
+  text-align: center;
+  font-size: 4rem;
+  color: #ef8172;
+}
+
 
 #title {
   background-color:#ff4c68;
