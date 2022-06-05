@@ -34,7 +34,7 @@ p {
 }
 
 #nav {
-  color:#b10c00;
+  background-color:#b10c00;
   text-align: center;
   position: relative;
 z-index: 1;
